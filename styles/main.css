@@ -1,0 +1,23 @@
+
+.title {
+   display: center;
+   
+
+}
+
+.list{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+
+
+}
+
+.shop{
+    flex-basis: 16%;
+    border: 1px dotted black;
+    padding: 1em;
+    margin: 0.5em;
+    text-align:center;
+
+}
